@@ -1,0 +1,14 @@
+html,body{
+    margin: 0; 
+    padding: 0;
+    height: 100%;
+}
+html{
+    font-size: 26.67vm;
+
+}
+body{
+    min-height: 100%;
+    font-family: '微软雅黑';
+    /* font-size: 16px; */
+}
